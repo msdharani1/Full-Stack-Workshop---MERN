@@ -1,0 +1,17 @@
+[
+  {
+    "username": "MS Dharani",
+    "role": "Front-End Developer",
+    "image": "./profile1.png"
+  },
+  {
+    "username": "Abishek",
+    "role": "Embedded Developer",
+    "image": "./profile2.png"
+  },
+  {
+    "username": "Samvel",
+    "role": "Admin",
+    "image": "./profile3.png"
+  }
+]

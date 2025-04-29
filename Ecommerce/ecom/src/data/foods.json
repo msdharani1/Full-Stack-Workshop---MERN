@@ -1,0 +1,52 @@
+[
+  {
+    "image": "https://content.jdmagicbox.com/comp/def_content_category/mi-pizza/4-mi-pizza-1-4v8zh.jpg",
+    "name": "Pizza",
+    "description": "A delicious Italian dish made with cheese, tomato sauce, and a variety of toppings."
+  },
+  {
+    "image": "https://assets.epicurious.com/photos/5c745a108918ee7ab68daf79/1:1/w_2560%2Cc_limit/Smashburger-recipe-120219.jpg",
+    "name": "Burger",
+    "description": "A sandwich consisting of a cooked patty placed inside a sliced bun with lettuce, tomato, and condiments."
+  },
+  {
+    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Sushi_platter.jpg/960px-Sushi_platter.jpg",
+    "name": "Sushi",
+    "description": "A traditional Japanese dish made with vinegared rice, seafood, and vegetables."
+  },
+  {
+    "image": "https://www.sharmispassions.com/wp-content/uploads/2015/12/alfredopasta5-500x500.jpg",
+    "name": "Pasta",
+    "description": "An Italian cuisine staple made from dough, often served with sauce, meat, or vegetables."
+  },
+  {
+    "image": "https://media-assets.swiggy.com/swiggy/image/upload/f_auto,q_auto,fl_lossy/RX_THUMBNAIL/IMAGES/VENDOR/2024/9/12/790cc688-3013-46d8-af7c-8b84426b945c_955405.jpg",
+    "name": "Biryani",
+    "description": "A flavorful Indian rice dish cooked with spices, meat, or vegetables."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEehMJdrQjutkxwCJzB7LGdci8wAT3NSAQXA&s",
+    "name": "Tacos",
+    "description": "A traditional Mexican food consisting of a folded tortilla filled with meat, beans, cheese, and vegetables."
+  },
+  {
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2024/02/Best-Shrimp-Fried-Rice-Recipe.jpg",
+    "name": "Fried Rice",
+    "description": "A popular Asian dish made by stir-frying rice with vegetables, eggs, and optional meat."
+  },
+  {
+    "image": "https://www.cookwithmanali.com/wp-content/uploads/2021/08/Schezwan-Noodles-500x500.jpg",
+    "name": "Noodles",
+    "description": "A dish made with boiled or stir-fried noodles, often mixed with vegetables, sauces, and proteins."
+  },
+  {
+    "image": "https://www.cubesnjuliennes.com/wp-content/uploads/2023/10/Best-Crispy-Plain-Dosa-Recipe.jpg",
+    "name": "Dosa",
+    "description": "A South Indian thin crepe made from fermented rice and lentil batter, usually served with chutney and sambar."
+  },
+  {
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjU3AT9r8228is-t5JHuLCk2InG0PID_mpRw&s",
+    "name": "Paneer Tikka",
+    "description": "A popular Indian appetizer made from marinated cubes of paneer grilled with spices and vegetables."
+  }
+]
